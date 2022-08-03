@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @giandos200
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
 - 👦 I’m currently a Ph.D. student at Polytechnic of Bari
-- 📚 I’m looking to collaborate on Trustworthy AI in Financial Services (Fairness and Explainability), 
-Fairness in Recommender Systems and Deep Reinforcement Learning in Interactive Recommender Systems
-- ✉️ Please, contact me on my istitutional mail: giandomenico.cornacchia@poliba.it
+- 📚 I’m looking to collaborate on Trustworthy AI in Financial Services (Fairness, Explainability, and Counterfactual Reasoning). I'm also interested curious about Fairness in Recommender Systems and Deep Reinforcement Learning in Interactive Recommender Systems
+- ✉️ Please, contact me on my institutional mail: giandomenico.cornacchia@poliba.it
 
 <!---
 giandos200/giandos200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
